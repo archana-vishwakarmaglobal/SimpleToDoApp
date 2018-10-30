@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="delete_all">Delete all</string>
+    <string name="com_andorid_todo">com.android.todo</string>
+    <string name="TO_DO_STRINGS">todostrings</string>
+</resources>
